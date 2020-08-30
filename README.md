@@ -7,8 +7,8 @@
 
 #### Want to know more about me ?
 
-**[I'm using Gitlab for my repository](https://gitlab.com/mnhdrn)**
-**[My website](http://mnhdrn.com)**
+- **[I'm using Gitlab for all my project](https://gitlab.com/mnhdrn)**
+- **[My website](http://mnhdrn.com)**
 
 <!--
 **MNHDRN/MNHDRN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
